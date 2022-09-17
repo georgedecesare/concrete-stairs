@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "concrete-stairs",
+  "version": "1.0.0",
+
+  "name": "Concrete Stairs",
+  "description": "This mod adds the missing Concrete/Terracotta Stair, Slab and Wall variants.",
+  "authors": [
+    "GoldenBanana42"
+  ],
+  "contact": {
+    "homepage": "#",
+    "sources": "#"
+  },
+
+  "license": "GPL-3.0",
+  "icon": "assets/concrete_stairs/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.fabricmc.concretestairs.ConcreteStairs"
+    ]
+  },
+
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "fabric-api": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

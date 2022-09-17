@@ -1,0 +1,16 @@
+{
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2022-09-17 14:32:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:stony_shore": "2022-09-17 14:32:47 +0100",
+      "minecraft:plains": "2022-09-17 14:32:15 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}
