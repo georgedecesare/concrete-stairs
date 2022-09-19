@@ -17,6 +17,21 @@
     "concretestairs:green_concrete_stairs",
     "concretestairs:red_concrete_stairs",
     "concretestairs:black_concrete_stairs",
-    "concretestairs:white_concrete_slab"
+    "concretestairs:white_concrete_slab",
+    "concretestairs:orange_concrete_slab",
+    "concretestairs:magenta_concrete_slab",
+    "concretestairs:light_blue_concrete_slab",
+    "concretestairs:yellow_concrete_slab",
+    "concretestairs:lime_concrete_slab",
+    "concretestairs:pink_concrete_slab",
+    "concretestairs:gray_concrete_slab",
+    "concretestairs:light_gray_concrete_slab",
+    "concretestairs:cyan_concrete_slab",
+    "concretestairs:purple_concrete_slab",
+    "concretestairs:blue_concrete_slab",
+    "concretestairs:brown_concrete_slab",
+    "concretestairs:green_concrete_slab",
+    "concretestairs:red_concrete_slab",
+    "concretestairs:black_concrete_slab",
   ]
 }

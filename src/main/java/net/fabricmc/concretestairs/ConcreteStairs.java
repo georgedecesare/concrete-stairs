@@ -33,27 +33,23 @@ public class ConcreteStairs implements ModInitializer {
 	public static final StairsBlock RED_CONCRETE_STAIRS = new StairsBlock(net.minecraft.block.Blocks.ANDESITE_STAIRS.getDefaultState(),FabricBlockSettings.of(Material.METAL).strength(1.8f).requiresTool());
 	public static final StairsBlock BLACK_CONCRETE_STAIRS = new StairsBlock(net.minecraft.block.Blocks.ANDESITE_STAIRS.getDefaultState(),FabricBlockSettings.of(Material.METAL).strength(1.8f).requiresTool());
 
-
-	/*
-	public static final StairsBlock WHITE_CONCRETE_SLAB = new StairsBlock(net.minecraft.block.Blocks.ANDESITE_SLAB.getDefaultState(),FabricBlockSettings.of(Material.METAL).strength(1.8f).requiresTool());
-	public static final StairsBlock ORANGE_CONCRETE_SLAB = new StairsBlock(net.minecraft.block.Blocks.ANDESITE_SLAB.getDefaultState(),FabricBlockSettings.of(Material.METAL).strength(1.8f).requiresTool());
-	public static final StairsBlock MAGENTA_CONCRETE_SLAB = new StairsBlock(net.minecraft.block.Blocks.ANDESITE_SLAB.getDefaultState(),FabricBlockSettings.of(Material.METAL).strength(1.8f).requiresTool());
-	public static final StairsBlock LIGHT_BLUE_CONCRETE_SLAB = new StairsBlock(net.minecraft.block.Blocks.ANDESITE_SLAB.getDefaultState(),FabricBlockSettings.of(Material.METAL).strength(1.8f).requiresTool());
-	public static final StairsBlock YELLOW_CONCRETE_SLAB = new StairsBlock(net.minecraft.block.Blocks.ANDESITE_SLAB.getDefaultState(),FabricBlockSettings.of(Material.METAL).strength(1.8f).requiresTool());
-	public static final StairsBlock LIME_CONCRETE_SLAB = new StairsBlock(net.minecraft.block.Blocks.ANDESITE_SLAB.getDefaultState(),FabricBlockSettings.of(Material.METAL).strength(1.8f).requiresTool());
-	public static final StairsBlock PINK_CONCRETE_SLAB = new StairsBlock(net.minecraft.block.Blocks.ANDESITE_SLAB.getDefaultState(),FabricBlockSettings.of(Material.METAL).strength(1.8f).requiresTool());
-	public static final StairsBlock GRAY_CONCRETE_SLAB = new StairsBlock(net.minecraft.block.Blocks.ANDESITE_SLAB.getDefaultState(),FabricBlockSettings.of(Material.METAL).strength(1.8f).requiresTool());
-	public static final StairsBlock LIGHT_GRAY_CONCRETE_SLAB = new StairsBlock(net.minecraft.block.Blocks.ANDESITE_SLAB.getDefaultState(),FabricBlockSettings.of(Material.METAL).strength(1.8f).requiresTool());
-	public static final StairsBlock CYAN_CONCRETE_SLAB = new StairsBlock(net.minecraft.block.Blocks.ANDESITE_SLAB.getDefaultState(),FabricBlockSettings.of(Material.METAL).strength(1.8f).requiresTool());
-	public static final StairsBlock PURPLE_CONCRETE_SLAB = new StairsBlock(net.minecraft.block.Blocks.ANDESITE_SLAB.getDefaultState(),FabricBlockSettings.of(Material.METAL).strength(1.8f).requiresTool());
-	public static final StairsBlock BLUE_CONCRETE_SLAB = new StairsBlock(net.minecraft.block.Blocks.ANDESITE_SLAB.getDefaultState(),FabricBlockSettings.of(Material.METAL).strength(1.8f).requiresTool());
-	public static final StairsBlock BROWN_CONCRETE_SLAB = new StairsBlock(net.minecraft.block.Blocks.ANDESITE_SLAB.getDefaultState(),FabricBlockSettings.of(Material.METAL).strength(1.8f).requiresTool());
-	public static final StairsBlock GREEN_CONCRETE_SLAB = new StairsBlock(net.minecraft.block.Blocks.ANDESITE_SLAB.getDefaultState(),FabricBlockSettings.of(Material.METAL).strength(1.8f).requiresTool());
-	public static final StairsBlock RED_CONCRETE_SLAB = new StairsBlock(net.minecraft.block.Blocks.ANDESITE_SLAB.getDefaultState(),FabricBlockSettings.of(Material.METAL).strength(1.8f).requiresTool());
-	public static final StairsBlock BLACK_CONCRETE_SLAB = new StairsBlock(net.minecraft.block.Blocks.ANDESITE_SLAB.getDefaultState(),FabricBlockSettings.of(Material.METAL).strength(1.8f).requiresTool());
-	*/
-
 	public static final SlabBlock WHITE_CONCRETE_SLAB = new SlabBlock(FabricBlockSettings.of(Material.METAL).strength(1.8f).requiresTool());
+	public static final SlabBlock ORANGE_CONCRETE_SLAB = new SlabBlock(FabricBlockSettings.of(Material.METAL).strength(1.8f).requiresTool());
+	public static final SlabBlock MAGENTA_CONCRETE_SLAB = new SlabBlock(FabricBlockSettings.of(Material.METAL).strength(1.8f).requiresTool());
+	public static final SlabBlock LIGHT_BLUE_CONCRETE_SLAB = new SlabBlock(FabricBlockSettings.of(Material.METAL).strength(1.8f).requiresTool());
+	public static final SlabBlock YELLOW_CONCRETE_SLAB = new SlabBlock(FabricBlockSettings.of(Material.METAL).strength(1.8f).requiresTool());
+	public static final SlabBlock LIME_CONCRETE_SLAB = new SlabBlock(FabricBlockSettings.of(Material.METAL).strength(1.8f).requiresTool());
+	public static final SlabBlock PINK_CONCRETE_SLAB = new SlabBlock(FabricBlockSettings.of(Material.METAL).strength(1.8f).requiresTool());
+	public static final SlabBlock GRAY_CONCRETE_SLAB = new SlabBlock(FabricBlockSettings.of(Material.METAL).strength(1.8f).requiresTool());
+	public static final SlabBlock LIGHT_GRAY_CONCRETE_SLAB = new SlabBlock(FabricBlockSettings.of(Material.METAL).strength(1.8f).requiresTool());
+	public static final SlabBlock CYAN_CONCRETE_SLAB = new SlabBlock(FabricBlockSettings.of(Material.METAL).strength(1.8f).requiresTool());
+	public static final SlabBlock PURPLE_CONCRETE_SLAB = new SlabBlock(FabricBlockSettings.of(Material.METAL).strength(1.8f).requiresTool());
+	public static final SlabBlock BLUE_CONCRETE_SLAB = new SlabBlock(FabricBlockSettings.of(Material.METAL).strength(1.8f).requiresTool());
+	public static final SlabBlock BROWN_CONCRETE_SLAB = new SlabBlock(FabricBlockSettings.of(Material.METAL).strength(1.8f).requiresTool());
+	public static final SlabBlock GREEN_CONCRETE_SLAB = new SlabBlock(FabricBlockSettings.of(Material.METAL).strength(1.8f).requiresTool());
+	public static final SlabBlock RED_CONCRETE_SLAB = new SlabBlock(FabricBlockSettings.of(Material.METAL).strength(1.8f).requiresTool());
+	public static final SlabBlock BLACK_CONCRETE_SLAB = new SlabBlock(FabricBlockSettings.of(Material.METAL).strength(1.8f).requiresTool());
+
 
 	@Override
 	public void onInitialize() {
@@ -124,5 +120,65 @@ public class ConcreteStairs implements ModInitializer {
 		//white concrete slab
 		Registry.register(Registry.BLOCK, new Identifier(MODID, "white_concrete_slab"), WHITE_CONCRETE_SLAB);
 		Registry.register(Registry.ITEM, new Identifier(MODID, "white_concrete_slab"), new BlockItem(WHITE_CONCRETE_SLAB, new FabricItemSettings().group(ItemGroup.BUILDING_BLOCKS)));
+
+		//orange concrete slab
+		Registry.register(Registry.BLOCK, new Identifier(MODID, "orange_concrete_slab"), ORANGE_CONCRETE_SLAB);
+		Registry.register(Registry.ITEM, new Identifier(MODID, "orange_concrete_slab"), new BlockItem(ORANGE_CONCRETE_SLAB, new FabricItemSettings().group(ItemGroup.BUILDING_BLOCKS)));
+
+		//magenta concrete slab
+		Registry.register(Registry.BLOCK, new Identifier(MODID, "magenta_concrete_slab"), MAGENTA_CONCRETE_SLAB);
+		Registry.register(Registry.ITEM, new Identifier(MODID, "magenta_concrete_slab"), new BlockItem(MAGENTA_CONCRETE_SLAB, new FabricItemSettings().group(ItemGroup.BUILDING_BLOCKS)));
+
+		//light blue concrete slab
+		Registry.register(Registry.BLOCK, new Identifier(MODID, "light_blue_concrete_slab"), LIGHT_BLUE_CONCRETE_SLAB);
+		Registry.register(Registry.ITEM, new Identifier(MODID, "light_blue_concrete_slab"), new BlockItem(LIGHT_BLUE_CONCRETE_SLAB, new FabricItemSettings().group(ItemGroup.BUILDING_BLOCKS)));
+
+		//yellow concrete slab
+		Registry.register(Registry.BLOCK, new Identifier(MODID, "yellow_concrete_slab"), YELLOW_CONCRETE_SLAB);
+		Registry.register(Registry.ITEM, new Identifier(MODID, "yellow_concrete_slab"), new BlockItem(YELLOW_CONCRETE_SLAB, new FabricItemSettings().group(ItemGroup.BUILDING_BLOCKS)));
+
+		//lime concrete slab
+		Registry.register(Registry.BLOCK, new Identifier(MODID, "lime_concrete_slab"), LIME_CONCRETE_SLAB);
+		Registry.register(Registry.ITEM, new Identifier(MODID, "lime_concrete_slab"), new BlockItem(LIME_CONCRETE_SLAB, new FabricItemSettings().group(ItemGroup.BUILDING_BLOCKS)));
+
+		//pink concrete slab
+		Registry.register(Registry.BLOCK, new Identifier(MODID, "pink_concrete_slab"), PINK_CONCRETE_SLAB);
+		Registry.register(Registry.ITEM, new Identifier(MODID, "pink_concrete_slab"), new BlockItem(PINK_CONCRETE_SLAB, new FabricItemSettings().group(ItemGroup.BUILDING_BLOCKS)));
+
+		//gray concrete slab
+		Registry.register(Registry.BLOCK, new Identifier(MODID, "gray_concrete_slab"), GRAY_CONCRETE_SLAB);
+		Registry.register(Registry.ITEM, new Identifier(MODID, "gray_concrete_slab"), new BlockItem(GRAY_CONCRETE_SLAB, new FabricItemSettings().group(ItemGroup.BUILDING_BLOCKS)));
+
+		//light gray concrete slab
+		Registry.register(Registry.BLOCK, new Identifier(MODID, "light_gray_concrete_slab"), LIGHT_GRAY_CONCRETE_SLAB);
+		Registry.register(Registry.ITEM, new Identifier(MODID, "light_gray_concrete_slab"), new BlockItem(LIGHT_GRAY_CONCRETE_SLAB, new FabricItemSettings().group(ItemGroup.BUILDING_BLOCKS)));
+
+		//cyan concrete slab
+		Registry.register(Registry.BLOCK, new Identifier(MODID, "cyan_concrete_slab"), CYAN_CONCRETE_SLAB);
+		Registry.register(Registry.ITEM, new Identifier(MODID, "cyan_concrete_slab"), new BlockItem(CYAN_CONCRETE_SLAB, new FabricItemSettings().group(ItemGroup.BUILDING_BLOCKS)));
+
+		//purple concrete slab
+		Registry.register(Registry.BLOCK, new Identifier(MODID, "purple_concrete_slab"), PURPLE_CONCRETE_SLAB);
+		Registry.register(Registry.ITEM, new Identifier(MODID, "purple_concrete_slab"), new BlockItem(PURPLE_CONCRETE_SLAB, new FabricItemSettings().group(ItemGroup.BUILDING_BLOCKS)));
+
+		//blue concrete slab
+		Registry.register(Registry.BLOCK, new Identifier(MODID, "blue_concrete_slab"), BLUE_CONCRETE_SLAB);
+		Registry.register(Registry.ITEM, new Identifier(MODID, "blue_concrete_slab"), new BlockItem(BLUE_CONCRETE_SLAB, new FabricItemSettings().group(ItemGroup.BUILDING_BLOCKS)));
+
+		//brown concrete slab
+		Registry.register(Registry.BLOCK, new Identifier(MODID, "brown_concrete_slab"), BROWN_CONCRETE_SLAB);
+		Registry.register(Registry.ITEM, new Identifier(MODID, "brown_concrete_slab"), new BlockItem(BROWN_CONCRETE_SLAB, new FabricItemSettings().group(ItemGroup.BUILDING_BLOCKS)));
+
+		//green concrete slab
+		Registry.register(Registry.BLOCK, new Identifier(MODID, "green_concrete_slab"), GREEN_CONCRETE_SLAB);
+		Registry.register(Registry.ITEM, new Identifier(MODID, "green_concrete_slab"), new BlockItem(GREEN_CONCRETE_SLAB, new FabricItemSettings().group(ItemGroup.BUILDING_BLOCKS)));
+
+		//red concrete slab
+		Registry.register(Registry.BLOCK, new Identifier(MODID, "red_concrete_slab"), RED_CONCRETE_SLAB);
+		Registry.register(Registry.ITEM, new Identifier(MODID, "red_concrete_slab"), new BlockItem(RED_CONCRETE_SLAB, new FabricItemSettings().group(ItemGroup.BUILDING_BLOCKS)));
+
+		//black concrete slab
+		Registry.register(Registry.BLOCK, new Identifier(MODID, "black_concrete_slab"), BLACK_CONCRETE_SLAB);
+		Registry.register(Registry.ITEM, new Identifier(MODID, "black_concrete_slab"), new BlockItem(BLACK_CONCRETE_SLAB, new FabricItemSettings().group(ItemGroup.BUILDING_BLOCKS)));
 	}
 }
