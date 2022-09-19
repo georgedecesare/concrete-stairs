@@ -1,0 +1,16 @@
+
+    {
+      "variants": {
+        "type=bottom": {
+          "model": "concretestairs:block/blue_terracotta_slab"
+        },
+        "type=double": {
+          "model": "minecraft:block/blue_terracotta"
+        },
+        "type=top": {
+          "model": "concretestairs:block/blue_terracotta_slab_top"
+        }
+      }
+    }
+
+                     

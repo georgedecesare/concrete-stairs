@@ -1,0 +1,17 @@
+
+    {
+      "type": "minecraft:crafting_shaped",
+      "key": {
+        "#": {
+          "item": "minecraft:pink_terracotta"
+        }
+      },
+      "pattern": [
+        "###"
+      ],
+      "result": {
+        "count": 6,
+        "item": "concretestairs:pink_terracotta_slab"
+      }
+    }
+    

@@ -1,0 +1,17 @@
+
+    {
+      "type": "minecraft:crafting_shaped",
+      "key": {
+        "#": {
+          "item": "minecraft:cyan_terracotta"
+        }
+      },
+      "pattern": [
+        "###"
+      ],
+      "result": {
+        "count": 6,
+        "item": "concretestairs:cyan_terracotta_slab"
+      }
+    }
+    

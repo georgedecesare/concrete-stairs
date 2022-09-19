@@ -1,0 +1,17 @@
+
+    {
+      "type": "minecraft:crafting_shaped",
+      "key": {
+        "#": {
+          "item": "minecraft:blue_terracotta"
+        }
+      },
+      "pattern": [
+        "###"
+      ],
+      "result": {
+        "count": 6,
+        "item": "concretestairs:blue_terracotta_slab"
+      }
+    }
+    

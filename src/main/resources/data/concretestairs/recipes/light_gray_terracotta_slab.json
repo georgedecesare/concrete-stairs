@@ -1,0 +1,17 @@
+
+    {
+      "type": "minecraft:crafting_shaped",
+      "key": {
+        "#": {
+          "item": "minecraft:light_gray_terracotta"
+        }
+      },
+      "pattern": [
+        "###"
+      ],
+      "result": {
+        "count": 6,
+        "item": "concretestairs:light_gray_terracotta_slab"
+      }
+    }
+    

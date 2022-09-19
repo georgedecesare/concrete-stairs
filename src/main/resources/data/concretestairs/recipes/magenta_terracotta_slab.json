@@ -1,0 +1,17 @@
+
+    {
+      "type": "minecraft:crafting_shaped",
+      "key": {
+        "#": {
+          "item": "minecraft:magenta_terracotta"
+        }
+      },
+      "pattern": [
+        "###"
+      ],
+      "result": {
+        "count": 6,
+        "item": "concretestairs:magenta_terracotta_slab"
+      }
+    }
+    

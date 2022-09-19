@@ -1,0 +1,19 @@
+
+    {
+      "type": "minecraft:crafting_shaped",
+      "key": {
+        "#": {
+          "item": "minecraft:brown_terracotta"
+        }
+      },
+      "pattern": [
+        "#  ",
+        "## ",
+        "###"
+      ],
+      "result": {
+        "count": 4,
+        "item": "concretestairs:brown_terracotta_stairs"
+      }
+    }
+    

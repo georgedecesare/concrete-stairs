@@ -1,0 +1,10 @@
+
+    {
+      "type": "minecraft:stonecutting",
+      "count": 2,
+      "ingredient": {
+        "item": "minecraft:magenta_terracotta"
+      },
+      "result": "concretestairs:magenta_terracotta_slab"
+    }
+    

@@ -1,0 +1,19 @@
+
+    {
+      "type": "minecraft:crafting_shaped",
+      "key": {
+        "#": {
+          "item": "minecraft:lime_terracotta"
+        }
+      },
+      "pattern": [
+        "#  ",
+        "## ",
+        "###"
+      ],
+      "result": {
+        "count": 4,
+        "item": "concretestairs:lime_terracotta_stairs"
+      }
+    }
+    
